@@ -16,6 +16,7 @@ foundry service start
 foundry service stop
 foundry service status
 foundry model ls
+foundry model download phi-4-mini
 """
 
 """ Manager Initialization & Metadata Patch """
